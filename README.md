@@ -4,8 +4,9 @@
 
 ## Problem Description
 * [Problem Description](#)
-* [Technologies Used](#technologies-used)
-
+* [Technologies Used](#)
+* [Contributors](#)
+* [Contact](#)
 
 
 
@@ -27,8 +28,8 @@
 ### Step 6: Conclusion
 
 
-
-
+## Contributors
+ - Chandan P - [https://github.com/chandanmono]
 
 
 ## Contact
