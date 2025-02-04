@@ -2,51 +2,30 @@
 > To apply EDA on Loan Details set and find the current customer who are going to default .
 
 
-## Table of Contents
-* [General Info](#general-information)
+## Problem Description
+* [Problem Description](#)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Problem Description:
+- To use real time data with loan application of various customer who has taken loan with the finance company, the Goal is to analyse this loan detail set and understand which customer are more likely to DEFAULT in the future and give the insight how and what aspect effect leads to the Finance loss by default customer.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- using EDA (Exploratory Data Analysis) we will analyse the loan detail set given and look in to some aspect and insight 
+Step 1: Data Cleaning
+Step 2: Data Understanding
+Step 3: Univariate Analysis
+Step 4: Segemented Univariate Analysis
+Step 5: Bivaraiate/Multivariate Analysis
+Step 6: Conclusion
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@chandanmono] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
